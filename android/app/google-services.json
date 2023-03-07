@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "754302722949",
+    "firebase_url": "https://superfood-3534f-default-rtdb.firebaseio.com",
+    "project_id": "superfood-3534f",
+    "storage_bucket": "superfood-3534f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754302722949:android:0182a246d1e01d2ea4daec",
+        "android_client_info": {
+          "package_name": "com.emrecifci.superfoodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754302722949-pipfpl1mkt9ulv0p9qk29hb6el4pcjjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUtmzQUz-DoqSWWIfHkr5IfgNoBhIAITQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754302722949-pipfpl1mkt9ulv0p9qk29hb6el4pcjjp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754302722949-71a5jtuh6pict2d4hc1k2iu2ogap2eh8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emrecifci.superfoodapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754302722949:android:a57ea65103c5702ea4daec",
+        "android_client_info": {
+          "package_name": "com.emrecifci.superfoodridersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754302722949-pipfpl1mkt9ulv0p9qk29hb6el4pcjjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUtmzQUz-DoqSWWIfHkr5IfgNoBhIAITQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754302722949-pipfpl1mkt9ulv0p9qk29hb6el4pcjjp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "754302722949-71a5jtuh6pict2d4hc1k2iu2ogap2eh8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emrecifci.superfoodapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
